@@ -5,7 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Wager</Text>
+      <Text style={styles.title}>Application</Text>
       <StatusBar style="light" />
     </View>
   );
