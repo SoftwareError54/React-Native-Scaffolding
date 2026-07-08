@@ -1,4 +1,4 @@
-_Wager - Bet on yourself_
+#Wager - Bet on yourself#
 
 Wager is an application designed to help individuals improve on themselves through the risk of monetary penalisation.
 
