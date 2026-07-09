@@ -1,7 +1,7 @@
 {
-  "name": "wager-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "Wager backend API",
+  "description": "Backend API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
